@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bericeo.github</title>
+  <title>Bericeo-o</title>
   
-  
+  <subtitle>Bericeo-o</subtitle>
   <link href="http://bericeo.github.io/atom.xml" rel="self"/>
   
   <link href="http://bericeo.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://bericeo.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>������</name>
     
   </author>
   
