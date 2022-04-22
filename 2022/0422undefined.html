@@ -516,7 +516,7 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <h2 id="Node环境hexo服务无法启动的问提"><a href="#Node环境hexo服务无法启动的问提" class="headerlink" title="Node环境hexo服务无法启动的问提"></a>Node环境hexo服务无法启动的问提</h2><h5 id="在网上看到node-hexo的博客搭建方法，就尝试了下，比较小白的问题还是出现的挺多的"><a href="#在网上看到node-hexo的博客搭建方法，就尝试了下，比较小白的问题还是出现的挺多的" class="headerlink" title="-在网上看到node+hexo的博客搭建方法，就尝试了下，比较小白的问题还是出现的挺多的"></a>-在网上看到node+hexo的博客搭建方法，就尝试了下，比较小白的问题还是出现的挺多的</h5><p>hexo s 运行报错，下图</p>
-<p><img src="/imgs/%E7%A4%BA%E4%BE%8B/af51671e5f30e366c24766569933e9b.png" alt="avatar"></p>
+<p><img src="/imgs/things/af51671e5f30e366c24766569933e9b.png"></p>
 <p>-提示显示是默认端口被占用，不知道什么原因，每次hexo s后都ctrl+c不出来，卡在那里，强制退出端口还是被占用的情况。试过重启也能正常运行。</p>
 <p>-所以无非换个接口启动就好了。</p>
 <pre><code>hexo s -p 80
@@ -525,13 +525,13 @@
 <pre><code>netstat -o -n -a | findstr :4001
 </code></pre>
 <p>-查询本地端口号，这里我的服务端口是4001</p>
-<p><img src="/imgs/%E7%A4%BA%E4%BE%8B/a24259ebcc802e36daf2aeb420d32ae.png" alt="avatar"></p>
+<p><img src="/imgs/things/a24259ebcc802e36daf2aeb420d32ae.png"></p>
 <p>-这里显示我的本地接口是16380，kill掉</p>
 <pre><code>taskkill /F /PID 16380
 </code></pre>
-<p><img src="/imgs/%E7%A4%BA%E4%BE%8B/4df1853f33bed1bd683ff42c3d39748.png" alt="avatar"></p>
+<p><img src="/imgs/things/4df1853f33bed1bd683ff42c3d39748.png"></p>
 <p>-再hexo s 就不会报错了</p>
-<p><img src="/imgs/%E7%A4%BA%E4%BE%8B/65e586308f8eb1a57c36b967f9e4a1e.png" alt="avatar"></p>
+<p><img src="/imgs/%E7%A4%BA%E4%BE%8B/65e586308f8eb1a57c36b967f9e4a1e.png"></p>
 <p>-当然，调试的时候你可以 -p 解决，或许你开的足够多的端口你会想kill掉他。</p>
 <p><img src="https://c-ssl.duitang.com/uploads/blog/202104/04/20210404130905_6b82c.thumb.1000_0.jpeg"></p>
 
@@ -550,7 +550,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="/about" rel="external nofollow noreferrer">凉笙</a>
+                    <a href="https://Lsheng0-0.github.io" rel="external nofollow noreferrer">凉笙</a>
                 </span>
             </div>
             <div class="reprint__type">
@@ -571,9 +571,9 @@
                 </span>
                 <span class="reprint-info">
                     本博客所有文章除特別声明外，均采用
-                    <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
+                    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY-NC-SA 4.0</a>
                     许可协议。转载请注明来源
-                    <a href="/about" target="_blank">凉笙</a>
+                    <a href="https://Lsheng0-0.github.io" target="_blank">凉笙</a>
                     !
                 </span>
             </div>
@@ -1301,63 +1301,16 @@
 </main>
 
 
+<script src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+    });
+</script>
+
 
 
     <footer class="page-footer bg-color">
-    
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Lsheng0-0/Lsheng0-0.github.io/libs/aplayer/APlayer.min.css">
-<style>
-    .aplayer .aplayer-lrc p {
-        
-        display: none;
-        
-        font-size: 12px;
-        font-weight: 700;
-        line-height: 16px !important;
-    }
-
-    .aplayer .aplayer-lrc p.aplayer-lrc-current {
-        
-        display: none;
-        
-        font-size: 15px;
-        color: #42b983;
-    }
-
-    
-    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-        left: -66px !important;
-    }
-
-    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
-        left: 0px !important;
-    }
-
-    
-</style>
-<div class="">
-    
-    <div class="row">
-        <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
-                   server="netease"
-                   type="playlist"
-                   id="2283481747"
-                   fixed='true'
-                   autoplay='false'
-                   theme='#42b983'
-                   loop='all'
-                   order='random'
-                   preload='metadata'
-                   volume='0.7'
-                   list-folded='true'
-        >
-        </meting-js>
-    </div>
-</div>
-
-<script src="https://cdn.jsdelivr.net/gh/Lsheng0-0/Lsheng0-0.github.io/libs/aplayer/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/Lsheng0-0/Lsheng0-0.github.io/libs/aplayer/Meting.min.js"></script>
-
     
 
     <div class="container row center-align"
