@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bericeo-o</title>
+  <title>Lsheng0-0</title>
   
-  <subtitle>Bericeo-o</subtitle>
-  <link href="https://bericeo.github.io/atom.xml" rel="self"/>
+  <subtitle>凉笙的个人博客</subtitle>
+  <link href="https://lsheng0-0.github.io/atom.xml" rel="self"/>
   
-  <link href="https://bericeo.github.io/"/>
+  <link href="https://lsheng0-0.github.io/"/>
   <updated>2022-04-22T05:57:13.698Z</updated>
-  <id>https://bericeo.github.io/</id>
+  <id>https://lsheng0-0.github.io/</id>
   
   <author>
     <name>凉笙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>针对Typora文本编辑器官网下载不下来问题</title>
-    <link href="https://bericeo.github.io/2022/0421undefined.html"/>
-    <id>https://bericeo.github.io/2022/0421undefined.html</id>
+    <link href="https://lsheng0-0.github.io/2022/0421undefined.html"/>
+    <id>https://lsheng0-0.github.io/2022/0421undefined.html</id>
     <published>2022-04-21T08:26:36.000Z</published>
     <updated>2022-04-22T05:57:13.698Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="Typora" scheme="https://bericeo.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://lsheng0-0.github.io/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>Hexo star</title>
-    <link href="https://bericeo.github.io/2022/0419undefined.html"/>
-    <id>https://bericeo.github.io/2022/0419undefined.html</id>
+    <link href="https://lsheng0-0.github.io/2022/0419undefined.html"/>
+    <id>https://lsheng0-0.github.io/2022/0419undefined.html</id>
     <published>2022-04-19T15:55:57.903Z</published>
     <updated>2022-04-22T02:12:25.163Z</updated>
     
