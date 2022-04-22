@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lsheng0-0</title>
+  <title>Lsheng&#39;blog</title>
   
-  <subtitle>凉笙的个人博客</subtitle>
+  <subtitle>凉笙的BLOG</subtitle>
   <link href="https://lsheng0-0.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsheng0-0.github.io/"/>
-  <updated>2022-04-22T10:22:39.424Z</updated>
+  <updated>2022-04-22T10:49:22.139Z</updated>
   <id>https://lsheng0-0.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lsheng0-0.github.io/2022/0422undefined.html"/>
     <id>https://lsheng0-0.github.io/2022/0422undefined.html</id>
     <published>2022-04-22T08:37:36.000Z</published>
-    <updated>2022-04-22T10:22:39.424Z</updated>
+    <updated>2022-04-22T10:49:22.139Z</updated>
     
     
       
@@ -69,7 +69,7 @@
   </entry>
   
   <entry>
-    <title>Hexo star</title>
+    <title>Hexo Star</title>
     <link href="https://lsheng0-0.github.io/2022/0419undefined.html"/>
     <id>https://lsheng0-0.github.io/2022/0419undefined.html</id>
     <published>2022-04-19T04:26:36.000Z</published>
