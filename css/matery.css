@@ -101,7 +101,7 @@ blockquote {
 }
 
 pre {
-    padding: 2rem 1rem 1rem 3rem !important;
+    padding: 2rem 1rem 1rem 1rem !important;
     border-radius: 0.35rem;
     tab-size: 4;
 }
@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #f6af67 30%, #fc5531 90%);
+    background-image: linear-gradient(to right, #ffa034c0 30%, #ff7659 60%);
 }
 
 .text-color {
@@ -257,7 +257,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #f6af67 0%, #fc5531 100%);
+    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
     opacity: 0.8;
 }
 
@@ -596,7 +596,7 @@ header .go-back i {
 @-webkit-keyframes rainbow {
 
     0%,
-    50% {
+    100% {
         background: rgba(156, 39, 176, 0.75);
         background: linear-gradient(45deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
@@ -642,7 +642,7 @@ header .go-back i {
 @keyframes rainbow {
 
     0%,
-    50% {
+    100% {
         background: rgba(156, 39, 176, 0.75);
         background: linear-gradient(45deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
@@ -1865,13 +1865,8 @@ footer .copy-right {
     margin: -15px 0 10px 10px;
 }
 
-p.search-result-summary{
-    margin: 15px 0 0 -8px;
-}
-
 #searchResult .search-result-list {
     margin-left: -8px;
-    margin-top: 0px;
     padding-left: 0;
     color: #666;
 }

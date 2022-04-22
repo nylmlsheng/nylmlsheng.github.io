@@ -3,11 +3,11 @@
   <title>Bericeo-o</title>
   
   <subtitle>Bericeo-o</subtitle>
-  <link href="http://bericeo.github.io/atom.xml" rel="self"/>
+  <link href="https://bericeo.github.io/atom.xml" rel="self"/>
   
-  <link href="http://bericeo.github.io/"/>
-  <updated>2022-04-21T09:58:10.190Z</updated>
-  <id>http://bericeo.github.io/</id>
+  <link href="https://bericeo.github.io/"/>
+  <updated>2022-04-22T02:44:41.342Z</updated>
+  <id>https://bericeo.github.io/</id>
   
   <author>
     <name>凉笙</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>针对Typora文本编辑器官网下载不下来问题</title>
-    <link href="http://bericeo.github.io/2022/0421undefined.html"/>
-    <id>http://bericeo.github.io/2022/0421undefined.html</id>
+    <link href="https://bericeo.github.io/2022/0421undefined.html"/>
+    <id>https://bericeo.github.io/2022/0421undefined.html</id>
     <published>2022-04-21T08:26:36.000Z</published>
-    <updated>2022-04-21T09:58:10.190Z</updated>
+    <updated>2022-04-22T02:44:41.342Z</updated>
     
     
       
@@ -35,27 +35,16 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>Bericeo</title>
-    <link href="http://bericeo.github.io/2022/0420undefined.html"/>
-    <id>http://bericeo.github.io/2022/0420undefined.html</id>
-    <published>2022-04-20T02:26:36.000Z</published>
-    <updated>2022-04-20T02:26:36.891Z</updated>
-    
-    
-    
-    
+    <category term="Typora" scheme="https://bericeo.github.io/tags/Typora/"/>
     
   </entry>
   
   <entry>
-    <title>Hexo 初始页</title>
-    <link href="http://bericeo.github.io/2022/0419undefined.html"/>
-    <id>http://bericeo.github.io/2022/0419undefined.html</id>
+    <title>Hexo star</title>
+    <link href="https://bericeo.github.io/2022/0419undefined.html"/>
+    <id>https://bericeo.github.io/2022/0419undefined.html</id>
     <published>2022-04-19T15:55:57.903Z</published>
-    <updated>2022-04-21T09:21:33.714Z</updated>
+    <updated>2022-04-22T02:12:25.163Z</updated>
     
     
       
