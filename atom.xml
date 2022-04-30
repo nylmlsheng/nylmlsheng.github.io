@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lsheng0-0</title>
+  <title>Lsheng</title>
   
-  <subtitle>Lsheng0-0</subtitle>
+  <subtitle>南鸢离梦</subtitle>
   <link href="https://lsheng0-0.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsheng0-0.github.io/"/>
-  <updated>2022-04-22T11:05:59.594Z</updated>
+  <updated>2022-04-26T04:49:13.060Z</updated>
   <id>https://lsheng0-0.github.io/</id>
   
   <author>
@@ -17,18 +17,103 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ADB常用命令，实现手机自动化_Python</title>
+    <link href="https://lsheng0-0.github.io/2022/04266.html"/>
+    <id>https://lsheng0-0.github.io/2022/04266.html</id>
+    <published>2022-04-26T04:26:36.000Z</published>
+    <updated>2022-04-26T04:49:13.060Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://lsheng0-0.github.io/categories/Python/"/>
+    
+    
+    <category term="Adb" scheme="https://lsheng0-0.github.io/tags/Adb/"/>
+    
+    <category term="Python" scheme="https://lsheng0-0.github.io/tags/Python/"/>
+    
+    <category term="Phone" scheme="https://lsheng0-0.github.io/tags/Phone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享个人搭建博客的过程，简单易学</title>
+    <link href="https://lsheng0-0.github.io/2022/042510263.html"/>
+    <id>https://lsheng0-0.github.io/2022/042510263.html</id>
+    <published>2022-04-25T11:26:36.000Z</published>
+    <updated>2022-04-24T18:11:46.758Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    
+    
+    <category term="Node" scheme="https://lsheng0-0.github.io/tags/Node/"/>
+    
+    <category term="Hexo" scheme="https://lsheng0-0.github.io/tags/Hexo/"/>
+    
+    <category term="Git" scheme="https://lsheng0-0.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jsDelivr + Github 全站CDN加速</title>
+    <link href="https://lsheng0-0.github.io/2022/042346084.html"/>
+    <id>https://lsheng0-0.github.io/2022/042346084.html</id>
+    <published>2022-04-23T10:26:36.000Z</published>
+    <updated>2022-04-24T18:00:18.839Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    
+    
+    <category term="jsDelivr" scheme="https://lsheng0-0.github.io/tags/jsDelivr/"/>
+    
+    <category term="Github" scheme="https://lsheng0-0.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Node环境hexo服务无法启动</title>
-    <link href="https://lsheng0-0.github.io/2022/0422undefined.html"/>
-    <id>https://lsheng0-0.github.io/2022/0422undefined.html</id>
+    <link href="https://lsheng0-0.github.io/2022/042248128.html"/>
+    <id>https://lsheng0-0.github.io/2022/042248128.html</id>
     <published>2022-04-22T08:37:36.000Z</published>
-    <updated>2022-04-22T11:05:59.594Z</updated>
+    <updated>2022-04-24T17:56:03.905Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Node环境hexo服务无法启动的问提&quot;&gt;&lt;a href=&quot;#Node环境hexo服务无法启动的问提&quot; class=&quot;headerlink&quot; title=&quot;Node环境hexo服务无法启动的问提&quot;&gt;&lt;/a&gt;Node环境hexo服务无法启动的问提&lt;/h2&gt;&lt;h5</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
         
       
     
@@ -45,17 +130,17 @@
   
   <entry>
     <title>针对Typora文本编辑器官网下载不下来问题</title>
-    <link href="https://lsheng0-0.github.io/2022/0421undefined.html"/>
-    <id>https://lsheng0-0.github.io/2022/0421undefined.html</id>
+    <link href="https://lsheng0-0.github.io/2022/042110263.html"/>
+    <id>https://lsheng0-0.github.io/2022/042110263.html</id>
     <published>2022-04-21T08:26:36.000Z</published>
-    <updated>2022-04-22T11:05:54.225Z</updated>
+    <updated>2022-04-23T17:47:30.796Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;针对Typora文本编辑器官网下载不下来问题&quot;&gt;&lt;a href=&quot;#针对Typora文本编辑器官网下载不下来问题&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
         
       
     
@@ -70,17 +155,17 @@
   
   <entry>
     <title>Hexo Star</title>
-    <link href="https://lsheng0-0.github.io/2022/0419undefined.html"/>
-    <id>https://lsheng0-0.github.io/2022/0419undefined.html</id>
+    <link href="https://lsheng0-0.github.io/2022/041924600.html"/>
+    <id>https://lsheng0-0.github.io/2022/041924600.html</id>
     <published>2022-04-19T04:26:36.000Z</published>
-    <updated>2022-04-22T11:05:56.282Z</updated>
+    <updated>2022-04-23T14:51:33.731Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
         
       
     
