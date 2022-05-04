@@ -173,20 +173,6 @@
 
   
   <url>
-    <loc>https://lsheng0-0.github.io/tags/Node/</loc>
-    <lastmod>2022-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lsheng0-0.github.io/tags/Hexo/</loc>
-    <lastmod>2022-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lsheng0-0.github.io/tags/Adb/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -208,6 +194,20 @@
   </url>
   
   <url>
+    <loc>https://lsheng0-0.github.io/tags/Node/</loc>
+    <lastmod>2022-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsheng0-0.github.io/tags/Hexo/</loc>
+    <lastmod>2022-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lsheng0-0.github.io/tags/jsDelivr/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -216,6 +216,13 @@
   
   <url>
     <loc>https://lsheng0-0.github.io/tags/Github/</loc>
+    <lastmod>2022-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lsheng0-0.github.io/tags/Git/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -236,13 +243,6 @@
   </url>
   
   <url>
-    <loc>https://lsheng0-0.github.io/tags/Git/</loc>
-    <lastmod>2022-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lsheng0-0.github.io/tags/Typora/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,14 +252,14 @@
 
   
   <url>
-    <loc>https://lsheng0-0.github.io/categories/Web/</loc>
+    <loc>https://lsheng0-0.github.io/categories/Python/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lsheng0-0.github.io/categories/Python/</loc>
+    <loc>https://lsheng0-0.github.io/categories/Web/</loc>
     <lastmod>2022-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
