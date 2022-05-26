@@ -6,7 +6,7 @@
   <link href="https://lsheng0-0.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsheng0-0.github.io/"/>
-  <updated>2022-05-04T11:02:00.964Z</updated>
+  <updated>2022-05-26T15:46:56.052Z</updated>
   <id>https://lsheng0-0.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Scrapy爬虫框架</title>
+    <link href="https://lsheng0-0.github.io/2022/052611.html"/>
+    <id>https://lsheng0-0.github.io/2022/052611.html</id>
+    <published>2022-05-26T11:37:36.000Z</published>
+    <updated>2022-05-26T15:46:56.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://lsheng0-0.github.io/categories/python/"/>
+    
+    
+    <category term="scrapy" scheme="https://lsheng0-0.github.io/tags/scrapy/"/>
+    
+    <category term="爬虫" scheme="https://lsheng0-0.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>关于超级鹰验证码识别的调用-Python</title>
