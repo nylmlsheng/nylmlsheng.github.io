@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lsheng</title>
+  <title>凉笙博客</title>
   
   <subtitle>南鸢离梦</subtitle>
   <link href="https://lsheng0-0.github.io/atom.xml" rel="self"/>
   
   <link href="https://lsheng0-0.github.io/"/>
-  <updated>2022-05-26T15:46:56.052Z</updated>
+  <updated>2023-04-21T18:30:06.323Z</updated>
   <id>https://lsheng0-0.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lsheng0-0.github.io/2022/052611.html"/>
     <id>https://lsheng0-0.github.io/2022/052611.html</id>
     <published>2022-05-26T11:37:36.000Z</published>
-    <updated>2022-05-26T15:46:56.052Z</updated>
+    <updated>2023-04-21T18:30:06.323Z</updated>
     
     
       
@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>关于超级鹰验证码识别的调用-Python</title>
+    <title>超级鹰OCR的使用方法（新用户领1000分，可用学习）</title>
     <link href="https://lsheng0-0.github.io/2022/05047.html"/>
     <id>https://lsheng0-0.github.io/2022/05047.html</id>
     <published>2022-05-04T04:26:36.000Z</published>
-    <updated>2022-05-04T11:02:00.964Z</updated>
+    <updated>2023-04-21T16:49:50.866Z</updated>
     
     
       
@@ -64,20 +64,20 @@
     <category term="Python" scheme="https://lsheng0-0.github.io/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://lsheng0-0.github.io/tags/Python/"/>
-    
     <category term="超级鹰" scheme="https://lsheng0-0.github.io/tags/%E8%B6%85%E7%BA%A7%E9%B9%B0/"/>
     
-    <category term="验证码识别" scheme="https://lsheng0-0.github.io/tags/%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB/"/>
+    <category term="Python" scheme="https://lsheng0-0.github.io/tags/Python/"/>
+    
+    <category term="OCR" scheme="https://lsheng0-0.github.io/tags/OCR/"/>
     
   </entry>
   
   <entry>
-    <title>ADB常用命令，实现手机自动化_Python</title>
+    <title>轻松实现手机自动化操作</title>
     <link href="https://lsheng0-0.github.io/2022/04266.html"/>
     <id>https://lsheng0-0.github.io/2022/04266.html</id>
     <published>2022-04-26T04:26:36.000Z</published>
-    <updated>2022-04-26T04:49:13.060Z</updated>
+    <updated>2023-04-21T17:13:30.925Z</updated>
     
     
       
@@ -95,18 +95,18 @@
     
     <category term="Adb" scheme="https://lsheng0-0.github.io/tags/Adb/"/>
     
-    <category term="Python" scheme="https://lsheng0-0.github.io/tags/Python/"/>
-    
     <category term="Phone" scheme="https://lsheng0-0.github.io/tags/Phone/"/>
+    
+    <category term="自动化" scheme="https://lsheng0-0.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
     
   </entry>
   
   <entry>
-    <title>分享个人搭建博客的过程，简单易学</title>
+    <title>自建博客过程分享(详细)</title>
     <link href="https://lsheng0-0.github.io/2022/042510263.html"/>
     <id>https://lsheng0-0.github.io/2022/042510263.html</id>
     <published>2022-04-25T11:26:36.000Z</published>
-    <updated>2022-04-24T18:11:46.758Z</updated>
+    <updated>2023-04-21T17:42:56.788Z</updated>
     
     
       
@@ -119,7 +119,7 @@
     
     
     
-    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    <category term="博客" scheme="https://lsheng0-0.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="Node" scheme="https://lsheng0-0.github.io/tags/Node/"/>
@@ -128,14 +128,16 @@
     
     <category term="Git" scheme="https://lsheng0-0.github.io/tags/Git/"/>
     
+    <category term="博客" scheme="https://lsheng0-0.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
   </entry>
   
   <entry>
-    <title>jsDelivr + Github 全站CDN加速</title>
+    <title>记录CDN加速遇到的问题</title>
     <link href="https://lsheng0-0.github.io/2022/042346084.html"/>
     <id>https://lsheng0-0.github.io/2022/042346084.html</id>
     <published>2022-04-23T10:26:36.000Z</published>
-    <updated>2022-04-24T18:00:18.839Z</updated>
+    <updated>2023-04-21T17:20:35.752Z</updated>
     
     
       
@@ -148,21 +150,23 @@
     
     
     
-    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    <category term="博客" scheme="https://lsheng0-0.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="jsDelivr" scheme="https://lsheng0-0.github.io/tags/jsDelivr/"/>
     
     <category term="Github" scheme="https://lsheng0-0.github.io/tags/Github/"/>
     
+    <category term="CDN" scheme="https://lsheng0-0.github.io/tags/CDN/"/>
+    
   </entry>
   
   <entry>
-    <title>Node环境hexo服务无法启动</title>
+    <title>Hexo服务异常之端口占用</title>
     <link href="https://lsheng0-0.github.io/2022/042248128.html"/>
     <id>https://lsheng0-0.github.io/2022/042248128.html</id>
     <published>2022-04-22T08:37:36.000Z</published>
-    <updated>2022-04-24T17:56:03.905Z</updated>
+    <updated>2023-04-21T17:39:08.118Z</updated>
     
     
       
@@ -175,7 +179,7 @@
     
     
     
-    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    <category term="异常" scheme="https://lsheng0-0.github.io/categories/%E5%BC%82%E5%B8%B8/"/>
     
     
     <category term="Node" scheme="https://lsheng0-0.github.io/tags/Node/"/>
@@ -185,11 +189,11 @@
   </entry>
   
   <entry>
-    <title>针对Typora文本编辑器官网下载不下来问题</title>
+    <title>Markdown编辑器(博主自用)</title>
     <link href="https://lsheng0-0.github.io/2022/042110263.html"/>
     <id>https://lsheng0-0.github.io/2022/042110263.html</id>
     <published>2022-04-21T08:26:36.000Z</published>
-    <updated>2022-04-23T17:47:30.796Z</updated>
+    <updated>2023-04-21T17:18:04.172Z</updated>
     
     
       
@@ -202,7 +206,7 @@
     
     
     
-    <category term="Tools" scheme="https://lsheng0-0.github.io/categories/Tools/"/>
+    <category term="工具" scheme="https://lsheng0-0.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
     <category term="Typora" scheme="https://lsheng0-0.github.io/tags/Typora/"/>
@@ -210,11 +214,11 @@
   </entry>
   
   <entry>
-    <title>Hexo Star</title>
+    <title>博客初创</title>
     <link href="https://lsheng0-0.github.io/2022/041924600.html"/>
     <id>https://lsheng0-0.github.io/2022/041924600.html</id>
     <published>2022-04-19T04:26:36.000Z</published>
-    <updated>2022-04-23T14:51:33.731Z</updated>
+    <updated>2023-04-21T17:14:23.122Z</updated>
     
     
       
@@ -227,7 +231,7 @@
     
     
     
-    <category term="Web" scheme="https://lsheng0-0.github.io/categories/Web/"/>
+    <category term="博客" scheme="https://lsheng0-0.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
   </entry>
